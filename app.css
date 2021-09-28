@@ -29,6 +29,13 @@ textarea{
     height: 200px;
     padding: 1rem;
 }
+#translatetext{
+    background-color: gray;
+    color: black;
+    border-radius: 0.5rem;
+    padding: 0.8rem;
+    
+}
 
 .op
 {
